@@ -1,2 +1,4 @@
-./.idea
-./venv
+.idea
+/venv
+CA1/.ipynb_checkpoints
+CA1/Source/temp
